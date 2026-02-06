@@ -1,7 +1,19 @@
 /**
- * Kotlin Practice: Operators (Comprehensive Guide - All Operators Included)
+ * Kotlin Practice: Operators (Comprehensive Guide)
  * Created by: Adarsh Kumar
- * Goal: Master every operator category with their technical translations.
+ *
+ * 🎯 STUDY STRATEGY (The 80/20 Rule):
+ * Programming aur Android Dev mein 80% time sirf niche diye gaye 20% operators use honge.
+ * Pehle inhe master karein:
+ *
+ * 1. ARITHMETIC:  +, - (UI positioning aur basic math ke liye).
+ * 2. RELATIONAL:  ==, !=, >, < (Conditions check karne ke liye).
+ * 3. LOGICAL:     &&, ||, !(not) (Decision-making ke liye).
+ * 4. ASSIGNMENT:  =, += (Value store aur update karne ke liye).
+ *
+ * ⚠️ LOW PRIORITY (Rarely Used):
+ * - Bitwise Operators (shl, and, xor): Android/Web dev mein na ke barabar use hote hain.
+ * - Modulus (%): Sirf specific logic (odd/even) mein kaam aata hai.
  */
 
 fun main() {
